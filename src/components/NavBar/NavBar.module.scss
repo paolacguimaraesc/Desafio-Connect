@@ -23,3 +23,20 @@
         border: solid #00AAFF 5px;
     }
 }
+
+
+@media (min-width: 201px) and (max-width: 500px){
+    .navBar {
+
+        a {
+            font-size: 0.8rem;            
+        }
+        img {
+            height: 4vh;
+        }
+        .imgPerfil {
+            height: 6vh;
+        }
+    }
+
+}

@@ -10,10 +10,10 @@ import styles from './NavBar.module.scss'
 import Logo from '../../assets/logo.png'
 import ImgPerfil from '../../assets/imgperfil.jpeg'
 
-function NavBar(){
-    return(
+function NavBar() {
+    return (
         <BrowserRouter>
-        <nav className={styles.navBar}>
+        <nav className={styles.navBar} >
             <Link to='/'>
             <img src={Logo} alt="Logo da Connect" />
             </Link>

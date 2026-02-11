@@ -1,10 +1,12 @@
 import NavBar from "./components/NavBar/NavBar.jsx";
 import './global.scss'
+import Footer from './components/Footer/Footer.jsx'
 
 function App(){
   return(
     <>
     <NavBar/>
+    <Footer/>
     </>
   )
 }
