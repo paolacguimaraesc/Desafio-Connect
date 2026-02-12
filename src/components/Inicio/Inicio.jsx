@@ -6,13 +6,7 @@ function Inicio(){
         <section className={styles.containerTelaInicial}>
             <div>
                 <h1>Projetos Sociais que transformam</h1>
-                <p>Início
-Ações da Connect
-Quem Somos
-Projetos Sociais 
-que transformam
-Conectamos sua empresa com projetos sociais impactantes. Juntos, criamos mudanças reais na comunidade.</p>
-
+                <p>Conectamos sua empresa com projetos sociais impactantes. Juntos, criamos mudanças reais na comunidade.</p>
             </div>
             <img src={ImgInicial} alt="Imagem de inicio"/>
         </section>
